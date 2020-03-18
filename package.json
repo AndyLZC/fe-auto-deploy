@@ -1,0 +1,17 @@
+{
+  "name": "fe-auto-deploy",
+  "version": "1.0.0",
+  "description": "前端自动部署",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lzc",
+  "license": "ISC",
+  "devDependencies": {
+    "archiver": "^3.1.1",
+    "chalk": "^3.0.0",
+    "ora": "^4.0.3",
+    "ssh2": "^0.8.8"
+  }
+}
